@@ -1,0 +1,13 @@
+Main FAQs
+
+What is my name?
+My name is Vijay Rohit kanchusthambham
+
+What do you do?
+I am professional software developer at Infosys.
+
+When did you start programming?
+I started programming when I was in college.
+
+What are your skills?
+I am skilled in Full Stack Development, with the main focus in Angular, Node.js, Express.js, SQL and Azure.
