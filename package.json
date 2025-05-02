@@ -1,0 +1,24 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo project.",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.3.41",
+    "@langchain/core": "^0.3.49",
+    "@langchain/google-genai": "^0.2.5",
+    "@langchain/openai": "^0.5.7",
+    "@langchain/textsplitters": "^0.1.0",
+    "@supabase/supabase-js": "^2.49.4",
+    "dotenv": "^16.5.0",
+    "langchain": "^0.3.24",
+    "nodemon": "^3.1.10",
+    "requirejs": "^2.3.7"
+  }
+}
