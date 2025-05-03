@@ -82,7 +82,7 @@ This project is a context-aware chatbot built using LangChain JS, a framework th
          query_embedding vector(768), -- Adjust the dimension to match your embeddings
          similarity_threshold float, 
          match_count int
-     )
+     ) 
      returns table(
          id uuid,
          text text,
