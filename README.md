@@ -53,8 +53,6 @@ This project is a context-aware chatbot built using LangChain JS, a framework th
    git clone <repository-url>
    cd Context_Aware_Chatbot_With_LangChain_JS
 
-## How to Run the Project (Continued)
-
 2. **Install Dependencies**  
    Install all the required dependencies for the project using the following command:
    ```bash
